@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "ms_grn_at_trade"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
